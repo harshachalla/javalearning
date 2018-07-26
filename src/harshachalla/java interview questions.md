@@ -1,6 +1,6 @@
-###Q1. Explain JDK, JRE and JVM?
+### Q1. Explain JDK, JRE and JVM?
 
- #####ans:
+ ##### ans:
    JDK(java development kit):
   
  To develop and run java applications JDK is required ,it provides development tools.
