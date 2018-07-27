@@ -118,4 +118,26 @@ Q10. What are the differences between Heap and Stack Memory?
 ##### ans:
 The main difference between heap and stack is that stack memory is used to store local variables and function call while heap memory is used to store objects in Java. No matter, where the object is created in code e.g. as a member variable, local variable or class variable,  they are always created inside heap space in Java.
 
+### OOPS Java Interview Questions: 
 
+Q1. What is Polymorphism
+
+Q2. What is runtime polymorphism or dynamic method dispatch?
+
+Q3. What is the difference between abstract classes and interfaces?
+
+Q4. What is method overloading and method overriding?
+
+Q5. Can you override a private or static method in Java?
+
+Q6. What is multiple inheritance? Is it supported by Java?
+
+Q7. What is association?
+
+
+Q8. What do you mean by aggregation?
+
+
+Q9. What is composition in Java?
+
+?
